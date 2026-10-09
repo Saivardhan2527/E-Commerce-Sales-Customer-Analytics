@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price,selling_price
+1,T-Shirt_001,Fashion,T-Shirt,23956.17,33742.43
+2,Vacuum Cleaner_002,Home & Kitchen,Vacuum Cleaner,17004.25,24423.53
+3,Perfume_003,Beauty,Perfume,23411.78,28859.52
+4,Jeans_004,Fashion,Jeans,24349.28,29885.98
+5,Backpack_005,Fashion,Backpack,6458.16,10687.57
+6,Jacket_006,Fashion,Jacket,19935.32,31814.58
+7,Coffee Maker_007,Home & Kitchen,Coffee Maker,12699.44,16697.76
+8,Air Fryer_008,Home & Kitchen,Air Fryer,1279.77,1551.28
+9,Perfume_009,Beauty,Perfume,2935.81,3852.23
+10,Shoes_010,Fashion,Shoes,22874.93,35291.33
+11,Air Fryer_011,Home & Kitchen,Air Fryer,15307.26,26025.39
+12,Jacket_012,Fashion,Jacket,23360.38,28823.35
+13,Headphones_013,Electronics,Headphones,10601.07,16462.69
+14,Vacuum Cleaner_014,Home & Kitchen,Vacuum Cleaner,10445.96,15969.06
+15,Running Shoes_015,Sports,Running Shoes,21363.01,31264.67
+16,Jeans_016,Fashion,Jeans,11153.01,18670.94
+17,Smartphone_017,Electronics,Smartphone,8706.21,13742.33
+18,Laptop_018,Electronics,Laptop,6357.96,7895.58
+19,Fitness Band_019,Sports,Fitness Band,5463.27,7427.2
+20,Laptop_020,Electronics,Laptop,19969.63,28352.28
+21,Laptop_021,Electronics,Laptop,16648.79,25434.57
+22,Shoes_022,Fashion,Shoes,2617.34,3274.26
+23,Skincare_023,Beauty,Skincare,4033.33,5163.44
+24,Grooming_024,Beauty,Grooming,14858.47,19969.71
+25,Jacket_025,Fashion,Jacket,6484.51,9465.94
+26,Skincare_026,Beauty,Skincare,9359.22,10843.95
+27,Tablet_027,Electronics,Tablet,20228.53,26778.49
+28,Yoga Mat_028,Sports,Yoga Mat,5013.88,7390.28
+29,Cookware_029,Home & Kitchen,Cookware,10236.82,17870.19
+30,T-Shirt_030,Fashion,T-Shirt,4224.33,7240.39
+31,Perfume_031,Beauty,Perfume,20162.87,32152.37
+32,Tablet_032,Electronics,Tablet,9430.81,12495.62
+33,Smartwatch_033,Electronics,Smartwatch,4943.33,7497.91
+34,Jacket_034,Fashion,Jacket,10648.99,16852.93
+35,Jeans_035,Fashion,Jeans,4407.75,6683.49
+36,Smartphone_036,Electronics,Smartphone,3231.11,4848.44
+37,Smartwatch_037,Electronics,Smartwatch,20758.92,29769.0
+38,Jacket_038,Fashion,Jacket,19256.23,23797.61
+39,Laptop_039,Electronics,Laptop,24688.68,30576.37
+40,Air Fryer_040,Home & Kitchen,Air Fryer,19652.0,30320.87
+41,Cookware_041,Home & Kitchen,Cookware,24591.95,31990.58
+42,Hair Care_042,Beauty,Hair Care,13752.9,18880.34
+43,Laptop_043,Electronics,Laptop,22269.8,34107.98
+44,Smartwatch_044,Electronics,Smartwatch,7862.94,12871.0
+45,Perfume_045,Beauty,Perfume,4102.09,5667.53
+46,Grooming_046,Beauty,Grooming,13803.56,19308.36
+47,Laptop_047,Electronics,Laptop,3879.4,6195.5
+48,Cookware_048,Home & Kitchen,Cookware,6203.79,7143.57
+49,Cookware_049,Home & Kitchen,Cookware,823.63,1419.9
+50,Smartwatch_050,Electronics,Smartwatch,381.74,510.08
+51,Smartwatch_051,Electronics,Smartwatch,17654.55,25312.82
+52,Smartwatch_052,Electronics,Smartwatch,20551.12,27917.37
+53,T-Shirt_053,Fashion,T-Shirt,2451.86,3631.58
+54,Hair Care_054,Beauty,Hair Care,10579.96,18327.19
+55,Perfume_055,Beauty,Perfume,6933.03,8900.89
+56,Smartwatch_056,Electronics,Smartwatch,11134.5,15180.4
+57,Jacket_057,Fashion,Jacket,5597.44,7017.72
+58,Skincare_058,Beauty,Skincare,6436.61,10086.18
+59,Cricket Kit_059,Sports,Cricket Kit,13757.49,16596.91
+60,Smartwatch_060,Electronics,Smartwatch,24209.08,40344.79
+61,Dumbbells_061,Sports,Dumbbells,19317.65,23305.64
+62,Fitness Band_062,Sports,Fitness Band,24297.24,38282.12
+63,Cricket Kit_063,Sports,Cricket Kit,7646.83,10616.43
+64,Mixer_064,Home & Kitchen,Mixer,4029.94,5795.48
+65,Laptop_065,Electronics,Laptop,6161.36,9421.0
+66,T-Shirt_066,Fashion,T-Shirt,7134.63,9371.48
+67,Fitness Band_067,Sports,Fitness Band,6680.36,9385.6
+68,Jacket_068,Fashion,Jacket,9147.0,15973.71
+69,Backpack_069,Fashion,Backpack,7790.62,12170.73
+70,Headphones_070,Electronics,Headphones,1443.33,2104.58
+71,Fitness Band_071,Sports,Fitness Band,17906.54,26782.88
+72,Shoes_072,Fashion,Shoes,12322.42,19245.82
+73,Makeup_073,Beauty,Makeup,4155.54,4855.11
+74,Smartwatch_074,Electronics,Smartwatch,7259.0,9518.66
+75,Hair Care_075,Beauty,Hair Care,24923.24,38187.74
+76,Headphones_076,Electronics,Headphones,18680.22,30113.84
+77,Mixer_077,Home & Kitchen,Mixer,2916.77,5014.31
+78,Jacket_078,Fashion,Jacket,10589.01,14688.76
+79,Fitness Band_079,Sports,Fitness Band,16890.99,29078.39
+80,T-Shirt_080,Fashion,T-Shirt,19703.07,28685.37
+81,Laptop_081,Electronics,Laptop,13021.54,21203.55
+82,Tablet_082,Electronics,Tablet,16774.7,23919.45
+83,Laptop_083,Electronics,Laptop,15754.32,22376.07
+84,Tablet_084,Electronics,Tablet,4841.39,6773.9
+85,Makeup_085,Beauty,Makeup,16611.73,22153.03
+86,Smartwatch_086,Electronics,Smartwatch,10162.68,13842.39
+87,Yoga Mat_087,Sports,Yoga Mat,4590.62,6658.9
+88,Cookware_088,Home & Kitchen,Cookware,19287.21,31242.59
+89,Air Fryer_089,Home & Kitchen,Air Fryer,16812.5,24695.27
+90,Coffee Maker_090,Home & Kitchen,Coffee Maker,15401.49,22063.26
+91,Running Shoes_091,Sports,Running Shoes,8677.41,10019.24
+92,Vacuum Cleaner_092,Home & Kitchen,Vacuum Cleaner,3778.31,5574.2
+93,Shoes_093,Fashion,Shoes,24213.49,38043.07
+94,Jeans_094,Fashion,Jeans,12665.43,18221.72
+95,T-Shirt_095,Fashion,T-Shirt,14698.89,18729.63
+96,Cricket Kit_096,Sports,Cricket Kit,4348.01,7099.15
+97,Hair Care_097,Beauty,Hair Care,7355.3,9282.22
+98,Makeup_098,Beauty,Makeup,9378.27,14033.55
+99,Fitness Band_099,Sports,Fitness Band,14514.86,18331.38
+100,Fitness Band_100,Sports,Fitness Band,14472.41,20168.27
+101,Backpack_101,Fashion,Backpack,21629.76,34900.21
+102,Air Fryer_102,Home & Kitchen,Air Fryer,4734.12,7461.45
+103,Grooming_103,Beauty,Grooming,11431.38,18841.4
+104,Cricket Kit_104,Sports,Cricket Kit,11514.13,16236.11
+105,Cookware_105,Home & Kitchen,Cookware,5243.67,7699.88
+106,Tablet_106,Electronics,Tablet,2858.33,4480.13
+107,Jacket_107,Fashion,Jacket,2046.32,2649.54
+108,Hair Care_108,Beauty,Hair Care,22788.31,33284.66
+109,Smartwatch_109,Electronics,Smartwatch,4873.02,7454.1
+110,Laptop_110,Electronics,Laptop,5128.91,6395.53
+111,T-Shirt_111,Fashion,T-Shirt,6126.29,10166.19
+112,Backpack_112,Fashion,Backpack,5264.94,6291.41
+113,Cookware_113,Home & Kitchen,Cookware,17215.25,29662.69
+114,T-Shirt_114,Fashion,T-Shirt,22921.56,26397.68
+115,Air Fryer_115,Home & Kitchen,Air Fryer,9275.08,11523.42
+116,Tablet_116,Electronics,Tablet,5806.89,9885.94
+117,Jacket_117,Fashion,Jacket,1586.31,1927.45
+118,Grooming_118,Beauty,Grooming,10736.17,14075.01
+119,Laptop_119,Electronics,Laptop,8066.96,10863.86
+120,Laptop_120,Electronics,Laptop,14344.33,18147.89
+121,Fitness Band_121,Sports,Fitness Band,15938.43,19560.68
+122,Smartphone_122,Electronics,Smartphone,20125.33,33384.95
+123,Backpack_123,Fashion,Backpack,13883.28,17493.15
+124,Jacket_124,Fashion,Jacket,18894.54,29489.27
+125,Laptop_125,Electronics,Laptop,14792.83,17840.92
+126,Cricket Kit_126,Sports,Cricket Kit,24758.99,32122.1
+127,Backpack_127,Fashion,Backpack,7604.74,9184.96
+128,Jacket_128,Fashion,Jacket,9771.3,12466.01
+129,Smartphone_129,Electronics,Smartphone,4952.07,6582.62
+130,Cookware_130,Home & Kitchen,Cookware,24583.58,40331.23
+131,Smartphone_131,Electronics,Smartphone,13409.85,18065.86
+132,Grooming_132,Beauty,Grooming,24626.09,33373.83
+133,Smartwatch_133,Electronics,Smartwatch,1377.07,1729.89
+134,Mixer_134,Home & Kitchen,Mixer,24402.7,32590.09
+135,Hair Care_135,Beauty,Hair Care,14153.34,20906.82
+136,Mixer_136,Home & Kitchen,Mixer,7822.42,9846.2
+137,Shoes_137,Fashion,Shoes,24742.57,41988.09
+138,Laptop_138,Electronics,Laptop,4894.75,8049.11
+139,Smartwatch_139,Electronics,Smartwatch,15108.13,22712.25
+140,Hair Care_140,Beauty,Hair Care,9292.81,10737.73
+141,Jeans_141,Fashion,Jeans,24404.15,33727.27
+142,Vacuum Cleaner_142,Home & Kitchen,Vacuum Cleaner,21625.51,33958.05
+143,Fitness Band_143,Sports,Fitness Band,20003.03,33574.74
+144,Smartwatch_144,Electronics,Smartwatch,20201.99,23848.91
+145,Mixer_145,Home & Kitchen,Mixer,414.16,696.43
+146,Smartphone_146,Electronics,Smartphone,3064.5,5355.3
+147,Vacuum Cleaner_147,Home & Kitchen,Vacuum Cleaner,17985.23,21952.71
+148,Jeans_148,Fashion,Jeans,18562.55,27569.34
+149,Makeup_149,Beauty,Makeup,1350.73,1705.21
+150,Tablet_150,Electronics,Tablet,1528.29,2226.58
+151,Vacuum Cleaner_151,Home & Kitchen,Vacuum Cleaner,23660.61,34361.08
+152,Mixer_152,Home & Kitchen,Mixer,24675.11,34317.16
+153,Fitness Band_153,Sports,Fitness Band,22353.94,35572.0
+154,Smartwatch_154,Electronics,Smartwatch,7376.02,10657.15
+155,Mixer_155,Home & Kitchen,Mixer,19260.87,31726.7
+156,Tablet_156,Electronics,Tablet,18288.01,25598.15
+157,Air Fryer_157,Home & Kitchen,Air Fryer,20256.04,34508.87
+158,Backpack_158,Fashion,Backpack,11080.88,12769.86
+159,Mixer_159,Home & Kitchen,Mixer,20332.19,24061.13
+160,Vacuum Cleaner_160,Home & Kitchen,Vacuum Cleaner,21217.03,24945.03
+161,Vacuum Cleaner_161,Home & Kitchen,Vacuum Cleaner,14672.51,22827.81
+162,Dumbbells_162,Sports,Dumbbells,793.38,949.48
+163,Tablet_163,Electronics,Tablet,11875.59,13918.23
+164,Running Shoes_164,Sports,Running Shoes,21462.69,30909.52
+165,Laptop_165,Electronics,Laptop,6511.11,9903.74
+166,Shoes_166,Fashion,Shoes,19922.05,23876.95
+167,Jacket_167,Fashion,Jacket,18762.58,26446.11
+168,T-Shirt_168,Fashion,T-Shirt,6312.0,10269.63
+169,Backpack_169,Fashion,Backpack,16113.06,27824.46
+170,Grooming_170,Beauty,Grooming,6314.53,8477.34
+171,Coffee Maker_171,Home & Kitchen,Coffee Maker,19249.92,28486.97
+172,Headphones_172,Electronics,Headphones,1794.36,2630.27
+173,Smartphone_173,Electronics,Smartphone,20369.52,32866.2
+174,Shoes_174,Fashion,Shoes,8891.32,13586.01
+175,Jeans_175,Fashion,Jeans,13192.5,17293.28
+176,Jeans_176,Fashion,Jeans,12079.39,19808.54
+177,Smartphone_177,Electronics,Smartphone,11850.87,15755.63
+178,Mixer_178,Home & Kitchen,Mixer,8666.25,14376.18
+179,Smartwatch_179,Electronics,Smartwatch,22837.98,28727.05
+180,Jacket_180,Fashion,Jacket,4841.59,5831.76
+181,Skincare_181,Beauty,Skincare,200.21,260.58
+182,Laptop_182,Electronics,Laptop,1806.8,2385.19
+183,Cookware_183,Home & Kitchen,Cookware,5925.24,7790.7
+184,Cookware_184,Home & Kitchen,Cookware,6471.53,11221.85
+185,Skincare_185,Beauty,Skincare,10662.7,15623.91
+186,Headphones_186,Electronics,Headphones,11433.7,15679.49
+187,Air Fryer_187,Home & Kitchen,Air Fryer,21756.34,31139.82
+188,Jeans_188,Fashion,Jeans,6208.07,9782.92
+189,Perfume_189,Beauty,Perfume,10188.11,16642.05
+190,T-Shirt_190,Fashion,T-Shirt,5704.38,7546.99
+191,Laptop_191,Electronics,Laptop,13061.01,15339.89
+192,Headphones_192,Electronics,Headphones,8621.35,10134.82
+193,Coffee Maker_193,Home & Kitchen,Coffee Maker,4749.63,7804.99
+194,Running Shoes_194,Sports,Running Shoes,15073.25,21045.86
+195,Makeup_195,Beauty,Makeup,23661.57,33426.5
+196,Cookware_196,Home & Kitchen,Cookware,15964.61,22467.26
+197,Running Shoes_197,Sports,Running Shoes,4950.84,8167.89
+198,Skincare_198,Beauty,Skincare,3211.62,4293.15
+199,Mixer_199,Home & Kitchen,Mixer,21795.0,27187.92
+200,Smartwatch_200,Electronics,Smartwatch,8277.49,9761.63
+201,Fitness Band_201,Sports,Fitness Band,20134.19,33481.4
+202,Makeup_202,Beauty,Makeup,782.33,1146.93
+203,Smartphone_203,Electronics,Smartphone,24391.7,32153.69
+204,Hair Care_204,Beauty,Hair Care,19290.19,26783.79
+205,Coffee Maker_205,Home & Kitchen,Coffee Maker,941.58,1271.42
+206,Makeup_206,Beauty,Makeup,20407.21,23926.15
+207,Smartphone_207,Electronics,Smartphone,18356.3,28199.68
+208,Air Fryer_208,Home & Kitchen,Air Fryer,9957.25,12145.75
+209,Tablet_209,Electronics,Tablet,3383.91,5814.4
+210,Hair Care_210,Beauty,Hair Care,22696.66,38038.44
+211,Grooming_211,Beauty,Grooming,16605.74,21841.69
+212,Air Fryer_212,Home & Kitchen,Air Fryer,24511.78,37517.31
+213,Yoga Mat_213,Sports,Yoga Mat,15605.99,25053.4
+214,Smartphone_214,Electronics,Smartphone,21737.0,36569.15
+215,Cookware_215,Home & Kitchen,Cookware,23044.81,29836.61
+216,Tablet_216,Electronics,Tablet,21216.13,29099.69
+217,Makeup_217,Beauty,Makeup,388.52,648.39
+218,Running Shoes_218,Sports,Running Shoes,8120.67,12146.36
+219,Headphones_219,Electronics,Headphones,21604.7,32294.91
+220,Shoes_220,Fashion,Shoes,11333.57,18780.27
+221,Hair Care_221,Beauty,Hair Care,17453.48,25096.93
+222,T-Shirt_222,Fashion,T-Shirt,3756.44,4406.44
+223,Cricket Kit_223,Sports,Cricket Kit,21731.33,26934.26
+224,Backpack_224,Fashion,Backpack,22490.47,36303.74
+225,Cookware_225,Home & Kitchen,Cookware,3865.17,5581.45
+226,Smartphone_226,Electronics,Smartphone,22828.94,34298.79
+227,Jacket_227,Fashion,Jacket,12693.78,18610.65
+228,Headphones_228,Electronics,Headphones,7977.47,11578.22
+229,T-Shirt_229,Fashion,T-Shirt,11614.47,17494.85
+230,Hair Care_230,Beauty,Hair Care,6247.28,9565.83
+231,Coffee Maker_231,Home & Kitchen,Coffee Maker,17804.46,27173.54
+232,Air Fryer_232,Home & Kitchen,Air Fryer,20937.62,30091.54
+233,T-Shirt_233,Fashion,T-Shirt,7445.86,12555.31
+234,T-Shirt_234,Fashion,T-Shirt,9232.42,12716.22
+235,Laptop_235,Electronics,Laptop,19186.15,28557.36
+236,Jacket_236,Fashion,Jacket,1660.61,2097.08
+237,Coffee Maker_237,Home & Kitchen,Coffee Maker,8312.5,9961.3
+238,Dumbbells_238,Sports,Dumbbells,20715.2,25364.18
+239,Air Fryer_239,Home & Kitchen,Air Fryer,17799.94,25847.24
+240,Yoga Mat_240,Sports,Yoga Mat,13486.71,21291.76
+241,Mixer_241,Home & Kitchen,Mixer,6143.53,9175.12
+242,Smartphone_242,Electronics,Smartphone,7962.34,13925.67
+243,Grooming_243,Beauty,Grooming,23307.3,30962.55
+244,Shoes_244,Fashion,Shoes,19271.67,31533.25
+245,Perfume_245,Beauty,Perfume,10971.98,14295.26
+246,Air Fryer_246,Home & Kitchen,Air Fryer,2608.35,3449.16
+247,Cookware_247,Home & Kitchen,Cookware,16223.37,23985.88
+248,Perfume_248,Beauty,Perfume,14758.53,21324.57
+249,Cookware_249,Home & Kitchen,Cookware,2396.66,3698.68
+250,Backpack_250,Fashion,Backpack,16325.28,19926.87
+251,Tablet_251,Electronics,Tablet,24758.91,39633.96
+252,Hair Care_252,Beauty,Hair Care,23201.22,38871.45
+253,Backpack_253,Fashion,Backpack,1682.66,2356.31
+254,Makeup_254,Beauty,Makeup,11660.63,16705.08
+255,Smartphone_255,Electronics,Smartphone,24150.97,39948.41
+256,Smartwatch_256,Electronics,Smartwatch,21079.71,36541.32
+257,Mixer_257,Home & Kitchen,Mixer,9887.17,15428.66
+258,Smartphone_258,Electronics,Smartphone,1521.92,1883.04
+259,Running Shoes_259,Sports,Running Shoes,3356.43,4668.31
+260,Vacuum Cleaner_260,Home & Kitchen,Vacuum Cleaner,15573.06,25440.34
+261,Coffee Maker_261,Home & Kitchen,Coffee Maker,18831.61,25564.57
+262,T-Shirt_262,Fashion,T-Shirt,11939.42,14479.17
+263,Jeans_263,Fashion,Jeans,14664.1,17377.88
+264,Dumbbells_264,Sports,Dumbbells,6005.0,7539.39
+265,Smartphone_265,Electronics,Smartphone,10043.35,12371.43
+266,Air Fryer_266,Home & Kitchen,Air Fryer,23766.73,40165.32
+267,Cookware_267,Home & Kitchen,Cookware,4903.6,7748.56
+268,Headphones_268,Electronics,Headphones,10986.96,13617.79
+269,Fitness Band_269,Sports,Fitness Band,22269.6,33455.75
+270,Grooming_270,Beauty,Grooming,16334.92,28280.46
+271,Coffee Maker_271,Home & Kitchen,Coffee Maker,12845.51,20672.67
+272,Headphones_272,Electronics,Headphones,5113.72,7443.18
+273,Smartphone_273,Electronics,Smartphone,21227.77,32191.07
+274,Fitness Band_274,Sports,Fitness Band,4561.95,6314.82
+275,Backpack_275,Fashion,Backpack,15652.29,24221.2
+276,Headphones_276,Electronics,Headphones,22527.87,26261.89
+277,Backpack_277,Fashion,Backpack,17803.42,24594.73
+278,Makeup_278,Beauty,Makeup,10341.63,16355.85
+279,Dumbbells_279,Sports,Dumbbells,19049.91,22264.32
+280,Jacket_280,Fashion,Jacket,14587.55,22695.62
+281,Smartphone_281,Electronics,Smartphone,11467.88,17698.8
+282,Coffee Maker_282,Home & Kitchen,Coffee Maker,22033.19,35445.26
+283,Jeans_283,Fashion,Jeans,2631.4,3593.2
+284,Laptop_284,Electronics,Laptop,20129.07,27750.47
+285,Backpack_285,Fashion,Backpack,15250.87,17598.88
+286,Shoes_286,Fashion,Shoes,16574.21,25982.88
+287,Jeans_287,Fashion,Jeans,13374.78,20638.8
+288,Backpack_288,Fashion,Backpack,23646.45,34880.14
+289,Grooming_289,Beauty,Grooming,19916.11,30403.7
+290,Smartphone_290,Electronics,Smartphone,12024.34,15448.9
+291,Cricket Kit_291,Sports,Cricket Kit,24127.62,39859.08
+292,Skincare_292,Beauty,Skincare,764.66,936.96
+293,Perfume_293,Beauty,Perfume,16680.13,29119.25
+294,Jacket_294,Fashion,Jacket,14808.27,23618.09
+295,Jacket_295,Fashion,Jacket,24237.66,41490.15
+296,Air Fryer_296,Home & Kitchen,Air Fryer,12693.73,21090.48
+297,Fitness Band_297,Sports,Fitness Band,13378.18,20243.28
+298,Jacket_298,Fashion,Jacket,5528.49,9637.49
+299,Tablet_299,Electronics,Tablet,22188.96,35658.1
+300,T-Shirt_300,Fashion,T-Shirt,14512.91,23209.92
+301,Hair Care_301,Beauty,Hair Care,16512.27,27488.78
+302,Skincare_302,Beauty,Skincare,2018.25,2874.08
+303,Air Fryer_303,Home & Kitchen,Air Fryer,20535.67,23949.19
+304,Makeup_304,Beauty,Makeup,14363.56,23468.77
+305,Backpack_305,Fashion,Backpack,7766.49,12833.79
+306,Makeup_306,Beauty,Makeup,7211.68,11750.36
+307,Smartphone_307,Electronics,Smartphone,10590.8,13890.37
+308,Makeup_308,Beauty,Makeup,8081.02,12608.14
+309,Laptop_309,Electronics,Laptop,7807.82,11680.22
+310,Running Shoes_310,Sports,Running Shoes,24928.99,29955.35
+311,Smartwatch_311,Electronics,Smartwatch,19185.65,29822.22
+312,Tablet_312,Electronics,Tablet,19891.25,34287.41
+313,Dumbbells_313,Sports,Dumbbells,4240.14,6864.92
+314,Skincare_314,Beauty,Skincare,24836.13,40638.34
+315,Jacket_315,Fashion,Jacket,15030.07,25223.7
+316,Mixer_316,Home & Kitchen,Mixer,7288.55,10895.89
+317,Dumbbells_317,Sports,Dumbbells,4841.07,5602.09
+318,Backpack_318,Fashion,Backpack,2257.95,3905.35
+319,Backpack_319,Fashion,Backpack,20192.01,31166.91
+320,Laptop_320,Electronics,Laptop,14489.47,25072.77
+321,Smartphone_321,Electronics,Smartphone,14463.75,23969.72
+322,Skincare_322,Beauty,Skincare,18891.34,29053.12
+323,Running Shoes_323,Sports,Running Shoes,22651.13,26116.84
+324,Cookware_324,Home & Kitchen,Cookware,23170.07,35783.37
+325,Grooming_325,Beauty,Grooming,18566.02,25231.02
+326,Coffee Maker_326,Home & Kitchen,Coffee Maker,11504.63,15797.57
+327,Laptop_327,Electronics,Laptop,10241.05,13326.32
+328,Jacket_328,Fashion,Jacket,19422.65,30469.0
+329,Headphones_329,Electronics,Headphones,9625.6,14180.54
+330,Grooming_330,Beauty,Grooming,4172.92,6300.26
+331,Laptop_331,Electronics,Laptop,23947.91,28102.95
+332,Jeans_332,Fashion,Jeans,5631.85,6685.4
+333,Hair Care_333,Beauty,Hair Care,15703.02,23870.29
+334,Skincare_334,Beauty,Skincare,4653.05,5546.27
+335,Yoga Mat_335,Sports,Yoga Mat,2690.8,3960.87
+336,Jeans_336,Fashion,Jeans,4322.53,6671.67
+337,Vacuum Cleaner_337,Home & Kitchen,Vacuum Cleaner,2150.47,3019.75
+338,Perfume_338,Beauty,Perfume,19199.92,22722.08
+339,Coffee Maker_339,Home & Kitchen,Coffee Maker,14801.58,25603.86
+340,Cricket Kit_340,Sports,Cricket Kit,18857.23,21699.78
+341,Vacuum Cleaner_341,Home & Kitchen,Vacuum Cleaner,13440.11,19891.05
+342,Coffee Maker_342,Home & Kitchen,Coffee Maker,13478.34,20284.4
+343,Fitness Band_343,Sports,Fitness Band,19796.41,30185.2
+344,Cookware_344,Home & Kitchen,Cookware,8494.94,12938.07
+345,Jeans_345,Fashion,Jeans,5024.99,6206.73
+346,Smartphone_346,Electronics,Smartphone,1436.67,1804.48
+347,Coffee Maker_347,Home & Kitchen,Coffee Maker,4015.14,5938.04
+348,Grooming_348,Beauty,Grooming,22060.56,33186.86
+349,Jeans_349,Fashion,Jeans,1289.6,2238.9
+350,T-Shirt_350,Fashion,T-Shirt,19293.29,29542.02
+351,Air Fryer_351,Home & Kitchen,Air Fryer,4145.45,6678.47
+352,Jeans_352,Fashion,Jeans,4197.7,6085.28
+353,Headphones_353,Electronics,Headphones,19729.58,34370.13
+354,T-Shirt_354,Fashion,T-Shirt,21189.36,33919.27
+355,Cricket Kit_355,Sports,Cricket Kit,251.31,359.12
+356,Makeup_356,Beauty,Makeup,13167.83,21711.11
+357,Cookware_357,Home & Kitchen,Cookware,7535.12,12620.12
+358,Shoes_358,Fashion,Shoes,23490.0,29503.58
+359,Air Fryer_359,Home & Kitchen,Air Fryer,11749.54,13655.53
+360,Air Fryer_360,Home & Kitchen,Air Fryer,8940.57,11057.29
+361,Smartwatch_361,Electronics,Smartwatch,18817.89,26638.79
+362,Smartphone_362,Electronics,Smartphone,4488.27,5729.97
+363,Cookware_363,Home & Kitchen,Cookware,11393.94,17145.97
+364,Fitness Band_364,Sports,Fitness Band,19517.36,30127.67
+365,Mixer_365,Home & Kitchen,Mixer,14912.08,24144.44
+366,Smartwatch_366,Electronics,Smartwatch,14878.38,24312.09
+367,Cookware_367,Home & Kitchen,Cookware,11142.44,14569.16
+368,Cookware_368,Home & Kitchen,Cookware,21607.25,29040.7
+369,Cookware_369,Home & Kitchen,Cookware,10779.04,16099.94
+370,Coffee Maker_370,Home & Kitchen,Coffee Maker,20155.02,32611.46
+371,Backpack_371,Fashion,Backpack,7159.29,8969.48
+372,Laptop_372,Electronics,Laptop,8670.67,12676.3
+373,Dumbbells_373,Sports,Dumbbells,19549.38,25289.96
+374,Smartphone_374,Electronics,Smartphone,19902.9,33434.28
+375,Coffee Maker_375,Home & Kitchen,Coffee Maker,20849.37,32536.48
+376,Jacket_376,Fashion,Jacket,17857.5,28236.75
+377,Laptop_377,Electronics,Laptop,7544.62,11071.52
+378,Coffee Maker_378,Home & Kitchen,Coffee Maker,9037.25,11733.8
+379,T-Shirt_379,Fashion,T-Shirt,17588.42,29108.29
+380,Backpack_380,Fashion,Backpack,20074.12,33116.05
+381,Makeup_381,Beauty,Makeup,4558.59,7703.93
+382,Vacuum Cleaner_382,Home & Kitchen,Vacuum Cleaner,14340.55,16959.63
+383,Jeans_383,Fashion,Jeans,10519.97,15272.46
+384,Running Shoes_384,Sports,Running Shoes,18474.63,26039.93
+385,Yoga Mat_385,Sports,Yoga Mat,6904.91,11078.49
+386,Vacuum Cleaner_386,Home & Kitchen,Vacuum Cleaner,5298.86,7647.91
+387,Smartwatch_387,Electronics,Smartwatch,5717.84,7687.59
+388,Perfume_388,Beauty,Perfume,24733.07,29114.96
+389,Vacuum Cleaner_389,Home & Kitchen,Vacuum Cleaner,18492.02,29706.45
+390,Headphones_390,Electronics,Headphones,22859.52,39905.17
+391,Backpack_391,Fashion,Backpack,11114.21,12903.35
+392,Hair Care_392,Beauty,Hair Care,5500.62,8072.51
+393,Vacuum Cleaner_393,Home & Kitchen,Vacuum Cleaner,775.16,1237.47
+394,Fitness Band_394,Sports,Fitness Band,5694.92,7632.59
+395,Vacuum Cleaner_395,Home & Kitchen,Vacuum Cleaner,12885.45,22191.17
+396,Coffee Maker_396,Home & Kitchen,Coffee Maker,16423.12,19619.27
+397,Cookware_397,Home & Kitchen,Cookware,9661.16,15720.95
+398,Laptop_398,Electronics,Laptop,7935.59,11123.32
+399,Grooming_399,Beauty,Grooming,1046.24,1364.5
+400,Dumbbells_400,Sports,Dumbbells,21014.88,34393.63
+401,Jacket_401,Fashion,Jacket,639.24,842.69
+402,Smartphone_402,Electronics,Smartphone,15944.03,24686.25
+403,Smartphone_403,Electronics,Smartphone,7919.0,9853.36
+404,Smartwatch_404,Electronics,Smartwatch,20286.55,26727.34
+405,Makeup_405,Beauty,Makeup,7432.48,9286.98
+406,Smartphone_406,Electronics,Smartphone,13108.25,20778.81
+407,T-Shirt_407,Fashion,T-Shirt,20608.52,28964.7
+408,Vacuum Cleaner_408,Home & Kitchen,Vacuum Cleaner,12056.38,17659.4
+409,Headphones_409,Electronics,Headphones,21013.94,27781.96
+410,Mixer_410,Home & Kitchen,Mixer,19363.1,30461.08
+411,Skincare_411,Beauty,Skincare,1663.12,2827.61
+412,Yoga Mat_412,Sports,Yoga Mat,5389.14,7719.11
+413,Tablet_413,Electronics,Tablet,770.13,1152.05
+414,Vacuum Cleaner_414,Home & Kitchen,Vacuum Cleaner,535.78,784.8
+415,Laptop_415,Electronics,Laptop,18044.39,29934.1
+416,Backpack_416,Fashion,Backpack,13366.21,16352.3
+417,Vacuum Cleaner_417,Home & Kitchen,Vacuum Cleaner,1311.51,2267.39
+418,Coffee Maker_418,Home & Kitchen,Coffee Maker,23545.44,40773.99
+419,Smartphone_419,Electronics,Smartphone,22821.51,36906.49
+420,Jeans_420,Fashion,Jeans,14903.5,17730.31
+421,Running Shoes_421,Sports,Running Shoes,23763.74,38420.01
+422,Smartphone_422,Electronics,Smartphone,22173.06,26424.23
+423,T-Shirt_423,Fashion,T-Shirt,17288.16,21093.54
+424,Jacket_424,Fashion,Jacket,1876.8,2686.81
+425,Backpack_425,Fashion,Backpack,3964.13,5953.95
+426,Air Fryer_426,Home & Kitchen,Air Fryer,3970.7,6013.08
+427,Headphones_427,Electronics,Headphones,3039.03,4114.18
+428,Hair Care_428,Beauty,Hair Care,8761.97,11163.03
+429,Running Shoes_429,Sports,Running Shoes,24310.48,33141.1
+430,Tablet_430,Electronics,Tablet,2913.11,3736.28
+431,Mixer_431,Home & Kitchen,Mixer,16212.3,20907.79
+432,Headphones_432,Electronics,Headphones,6302.21,7794.78
+433,Tablet_433,Electronics,Tablet,24206.73,28937.01
+434,Grooming_434,Beauty,Grooming,6070.82,7852.64
+435,Jeans_435,Fashion,Jeans,6544.71,9189.04
+436,Shoes_436,Fashion,Shoes,3528.28,5640.62
+437,Backpack_437,Fashion,Backpack,14839.23,22230.87
+438,Hair Care_438,Beauty,Hair Care,16781.33,24533.22
+439,Jacket_439,Fashion,Jacket,10369.67,16924.66
+440,Smartwatch_440,Electronics,Smartwatch,4587.06,6508.7
+441,Coffee Maker_441,Home & Kitchen,Coffee Maker,5780.22,7805.3
+442,Grooming_442,Beauty,Grooming,12365.37,20025.73
+443,Running Shoes_443,Sports,Running Shoes,22819.64,29579.22
+444,Jeans_444,Fashion,Jeans,21637.96,27468.93
+445,Air Fryer_445,Home & Kitchen,Air Fryer,4952.2,7450.21
+446,Jacket_446,Fashion,Jacket,11801.86,13767.1
+447,Cookware_447,Home & Kitchen,Cookware,14627.69,20662.81
+448,Smartphone_448,Electronics,Smartphone,880.82,1160.93
+449,Mixer_449,Home & Kitchen,Mixer,21707.72,34143.77
+450,Vacuum Cleaner_450,Home & Kitchen,Vacuum Cleaner,14286.64,24374.22
+451,Perfume_451,Beauty,Perfume,20508.45,31452.62
+452,Grooming_452,Beauty,Grooming,13406.2,21184.47
+453,Smartwatch_453,Electronics,Smartwatch,21323.37,30940.58
+454,T-Shirt_454,Fashion,T-Shirt,16626.62,26296.34
+455,Coffee Maker_455,Home & Kitchen,Coffee Maker,8806.09,11032.86
+456,Tablet_456,Electronics,Tablet,16028.38,22325.03
+457,Smartwatch_457,Electronics,Smartwatch,8060.91,12202.47
+458,Backpack_458,Fashion,Backpack,22092.68,33243.83
+459,Vacuum Cleaner_459,Home & Kitchen,Vacuum Cleaner,23324.11,37344.54
+460,Laptop_460,Electronics,Laptop,1422.89,1799.01
+461,Hair Care_461,Beauty,Hair Care,24192.43,32494.85
+462,Grooming_462,Beauty,Grooming,4984.43,7233.7
+463,Yoga Mat_463,Sports,Yoga Mat,21248.17,29525.33
+464,Hair Care_464,Beauty,Hair Care,20685.55,35664.92
+465,Dumbbells_465,Sports,Dumbbells,13059.76,16454.27
+466,Yoga Mat_466,Sports,Yoga Mat,24568.69,39601.64
+467,Laptop_467,Electronics,Laptop,12548.05,16235.62
+468,Backpack_468,Fashion,Backpack,6438.55,11027.24
+469,Smartphone_469,Electronics,Smartphone,1759.8,2785.19
+470,Air Fryer_470,Home & Kitchen,Air Fryer,836.77,1406.61
+471,Jeans_471,Fashion,Jeans,20671.1,24000.43
+472,Dumbbells_472,Sports,Dumbbells,22760.57,31434.05
+473,Makeup_473,Beauty,Makeup,10593.78,16904.96
+474,Tablet_474,Electronics,Tablet,21034.01,31046.51
+475,Yoga Mat_475,Sports,Yoga Mat,8474.31,10352.33
+476,Shoes_476,Fashion,Shoes,20760.91,28008.95
+477,Shoes_477,Fashion,Shoes,20498.25,35113.66
+478,Makeup_478,Beauty,Makeup,9474.51,14006.05
+479,Smartphone_479,Electronics,Smartphone,5932.99,9704.32
+480,T-Shirt_480,Fashion,T-Shirt,8720.73,11529.68
+481,Jacket_481,Fashion,Jacket,17013.01,24062.28
+482,Yoga Mat_482,Sports,Yoga Mat,23234.96,34636.81
+483,Jacket_483,Fashion,Jacket,12894.87,21792.55
+484,Tablet_484,Electronics,Tablet,20903.87,26672.72
+485,Coffee Maker_485,Home & Kitchen,Coffee Maker,753.84,1119.35
+486,Hair Care_486,Beauty,Hair Care,23057.74,34508.61
+487,Jacket_487,Fashion,Jacket,3415.36,5444.37
+488,Grooming_488,Beauty,Grooming,18834.78,29235.14
+489,Shoes_489,Fashion,Shoes,21112.62,33366.52
+490,T-Shirt_490,Fashion,T-Shirt,2606.73,4328.64
+491,Laptop_491,Electronics,Laptop,5427.35,7518.82
+492,Vacuum Cleaner_492,Home & Kitchen,Vacuum Cleaner,13757.23,17356.81
+493,Smartwatch_493,Electronics,Smartwatch,24019.44,35900.7
+494,Headphones_494,Electronics,Headphones,20611.5,33541.48
+495,Grooming_495,Beauty,Grooming,8053.33,10659.27
+496,Running Shoes_496,Sports,Running Shoes,6692.11,8803.62
+497,Makeup_497,Beauty,Makeup,4868.24,7367.98
+498,Shoes_498,Fashion,Shoes,4321.77,7204.49
+499,Skincare_499,Beauty,Skincare,17437.33,26998.41
+500,Coffee Maker_500,Home & Kitchen,Coffee Maker,3805.36,6552.25
